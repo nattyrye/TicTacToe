@@ -21,7 +21,7 @@ function computersTurn(){
   $(halsMove).text(computerPiece);
 }
 
-// current player is either computer or player
+// current player is either computer or playerpiece
 
 function checkWinner(currentPlayer) {
   
